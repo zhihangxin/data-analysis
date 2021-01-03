@@ -20,3 +20,6 @@ twitter上の「ソフトバンク」の全体的なイメージは
 
 次に「au」に関するtweets数の時系列図
 ![image](https://github.com/zhihangxin/data-analysis/blob/main/img/au.png)
+
+twitter上の「au」の全体的なイメージは
+![image](https://github.com/zhihangxin/data-analysis/blob/main/img/au%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89.png)
