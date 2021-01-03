@@ -22,4 +22,9 @@ twitter上の「ソフトバンク」の全体的なイメージは
 ![image](https://github.com/zhihangxin/data-analysis/blob/main/img/au.png)
 
 twitter上の「au」の全体的なイメージは
+大体新年に関する内容だった
 ![image](https://github.com/zhihangxin/data-analysis/blob/main/img/au%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89.png)
+
+2020年12月31日24時のtweets数は異常なので，データを解析すると
+auの「5爺」CMが配信され，Twitter上に話題になっていた．
+![image](https://github.com/zhihangxin/data-analysis/blob/main/img/au31%E6%97%A524%E6%99%82%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89.png)
