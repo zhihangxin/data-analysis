@@ -3,3 +3,6 @@ twitterから取ったデータの時間が協定世界時で表示されてい�
 
 先ずは「ソフトバンク」に関するtweets数の時系列図
 ![image](https://github.com/zhihangxin/data-analysis/blob/main/img/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.png)
+
+twitter上の「ソフトバンク」の全体的なイメージは
+![image](https://github.com/zhihangxin/data-analysis/blob/main/img/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89.png)
